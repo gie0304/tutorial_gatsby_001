@@ -1,0 +1,6 @@
+https://ibaslogic.com/gatsby-tutorial-from-scratch-for-beginners/
+https://ibaslogic.com/styling-in-gatsby/
+https://ibaslogic.com/sourcing-data-in-gatsby/
+https://ibaslogic.com/working-with-gatsby-images/
+https://ibaslogic.com/page-metadata-and-404-error-page/
+https://ibaslogic.com/deploy-gatsby-to-netlify/
